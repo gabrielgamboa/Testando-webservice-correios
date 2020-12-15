@@ -1,0 +1,9 @@
+{
+  "name": "SOAP",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "soap": "^0.35.0"
+  }
+}
